@@ -1,9 +1,11 @@
 # Udemy Business Partner Outreach – MIDA Opportunity
 
-> Fill every `[ ]` placeholder before sending. Send via the partner form at
-> business.udemy.com (look for "Partners" / "Become a partner" in the footer) and/or
-> the "Contact Sales" form (select Malaysia, 501–1,000 employees). Paste the email
-> body into the form's message field and attach the company profile as PDF.
+> Send via the partner form at business.udemy.com ("Partners" / "Become a partner" in the
+> footer) and/or "Contact Sales" (Malaysia, 501–1,000 employees). Paste the email body into the
+> message field and attach the company profile as PDF. Also send to Udemy Business's APAC
+> partner/channel manager on LinkedIn.
+>
+> Before sending: confirm the LMS feature wording with your technical team.
 
 ---
 
@@ -13,8 +15,10 @@
 
 Dear Udemy Business Partnerships Team,
 
-I am [Name], [Title] of AISynergy [Sdn. Bhd.] (aisynergy.my), a Malaysian company providing
-learning management and AI training solutions to organisations in Malaysia.
+I am Dr Siti Aisyah binti Md Radzi, Director of iSpring Solutions (AS0474610-W), trading as
+AISynergy (aisynergy.my). We are a Malaysian, Bumiputera-owned MOF-registered company and
+HRD Corp registered training provider, supplying learning technology and training solutions to
+public-sector bodies, universities and corporates in Malaysia.
 
 We have received a formal Request for Quotation (dated 16 October 2026) from a Malaysian
 federal investment promotion agency under the Ministry of Investment, Trade and Industry
@@ -32,10 +36,10 @@ The client has specifically asked for details of the **authorised reseller or lo
 partner in Malaysia**. We believe Udemy Business Enterprise is the strongest fit and would like
 to propose it. Could you please advise on the following:
 
-1. **Deal registration** – Can AISynergy register this opportunity with Udemy Business so we can
-   lead the proposal, and what is the process?
-2. **Commercial terms** – What resale margin, partner discount or referral fee would apply for an
-   opportunity of this size, and what partner pricing can we quote for 600 Enterprise seats
+1. **Deal registration** – Can iSpring Solutions register this opportunity with Udemy Business
+   so we can lead the proposal, and what is the process?
+2. **Commercial terms** – What resale margin, partner discount or referral fee would apply for
+   an opportunity of this size, and what partner pricing can we quote for 600 Enterprise seats
    (12 months)?
 3. **Existing partners** – Does Udemy Business already have an authorised reseller covering the
    Malaysian public sector? If so, can we work with them on this deal, or how would the
@@ -47,50 +51,54 @@ the next few working days. Our company profile is attached.
 Thank you, and I look forward to working with you.
 
 Best regards,
-[Name]
-[Title], AISynergy [Sdn. Bhd.]
-[Phone / WhatsApp] | Contact@aisynergy.my | aisynergy.my
+Dr Siti Aisyah binti Md Radzi
+Director, iSpring Solutions (AS0474610-W) t/a AISynergy
+WhatsApp / Phone: +60 18-288 6500 | Contact@aisynergy.my | aisynergy.my
 
-> Note: the client's name is deliberately not given in the first message. Disclose "MIDA"
-> once Udemy confirms deal registration or under NDA — this protects your position.
+> The client's name is deliberately not given in the first message. Disclose "MIDA" once Udemy
+> confirms deal registration or under NDA.
 
 ---
 
 ## 2. Company Profile (1 page – export to PDF)
 
-**AISynergy [Sdn. Bhd.]**
+**iSpring Solutions (AS0474610-W) – trading as AISynergy**
 Learning Technology & AI Training Solutions – Malaysia
 
 | | |
 |---|---|
-| Company registration (SSM) | [Registration no. / year incorporated] |
-| MOF registration / e-Perolehan | [MOF cert no., field codes e.g. 210103 / 221002, expiry] — or "In progress" |
-| Bumiputera status (if any) | [Yes / No] |
-| HRD Corp registered training provider | [Yes – no. / No] |
-| Address | [Address] |
+| Company registration (SSM) | AS0474610-W |
+| MOF registration (e-Perolehan) | Cert. no. K98371628764096629 · Ref. 357-0002421596 · Valid 9 Feb 2025 – 8 Feb 2028 |
+| Relevant MOF codes | 210103 (software, off-the-shelf packages) · 210104 (software development/customisation) · 221110 (training, trainers & moderators) · 010601 / 010602 (educational equipment & materials) |
+| HRD Corp training provider | Registered – Serial no. 202403037477 · Valid 24 Jan 2026 – 23 Jan 2027 |
+| Bumiputera status | Yes |
+| Address | No. 15-2, Tingkat 2, Jalan 11/48A, Sentul Raya Boulevard, Sentul, 51000 Kuala Lumpur |
 | Website / Email | aisynergy.my / Contact@aisynergy.my |
-| Key contact | [Name, title, phone] |
+| Key contact | Dr Siti Aisyah binti Md Radzi, Director · +60 18-288 6500 |
 
 **About us**
-AISynergy helps Malaysian organisations build workforce capability through digital learning
-platforms and practical AI training. We combine our own learning management platform with
-curated content and local implementation and support.
+AISynergy is the learning technology and AI training brand of iSpring Solutions. We help
+Malaysian organisations build workforce capability through digital learning platforms and
+practical training, combining platform, content and local implementation and support.
 
 **Capabilities**
-- **LMS platform** – own LMS with SSO, user/group administration, learning pathways,
-  admin dashboards, completion & training-hour tracking, and exportable HR reports
-- **Content integration** – SCORM/xAPI and API integration with third-party course libraries
-- **AI & digital training** – [e.g. GenAI, Microsoft Copilot, Power Automate, data literacy]
-- **Implementation & support** – onboarding, admin training, local helpdesk (BM/EN),
-  monthly utilisation reports, quarterly reviews
+- **LMS platform** – Moodle-based learning management platform, branded and supported by
+  AISynergy: single sign-on options, learning plans and pathways, course completion tracking,
+  admin dashboards and exportable activity/completion reports
+- **Content integration** – SCORM and LTI support, plus web-service APIs, for loading and
+  linking third-party course libraries
+- **Training delivery** – HRD Corp registered provider for classroom and online programmes
+- **Implementation & support** – onboarding, admin training, local helpdesk, utilisation reports
 
-**Selected clients / projects**
-1. [Client – sector – what was delivered – year]
-2. [Client – sector – what was delivered – year]
-3. [Client – sector – what was delivered – year]
-(Highlight any government, GLC or statutory-body work.)
+**Selected customers**
+- *Government & public sector:* Kementerian Kesihatan Malaysia · JAKIM · INSPEN ·
+  Pejabat Perdana Menteri / Akademi Kenegaraan Malaysia
+- *Higher education:* International Medical University (IMU) · IIUM · UTeM · UniKL · UCTS ·
+  DRB-HICOM University of Automotive Malaysia
+- *Corporate:* PLUS · Gamuda Land · Tan Chong Group · Concentrix · Wiwynn · ZHA Pengangkutan
 
 **Why partner with AISynergy**
-- Local presence and public-sector procurement readiness ([MOF/e-Perolehan])
-- Platform + services wrapper that drives seat activation and renewals
-- Active pipeline: [600-seat MITI agency RFQ; other prospects]
+- Proven public-sector customer base and current MOF registration for government procurement
+- HRD Corp registered, Bumiputera-owned local partner
+- Platform + services wrapper that drives seat activation, reporting and renewals
+- Active pipeline: ~600-seat MITI agency RFQ
